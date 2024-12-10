@@ -24,7 +24,7 @@ In this project, we have:
  - Inactive : IC50 > 10000 nM .
 
 * Conducted the Mann–Whitney test for the Lipinski descriptor between active and inactive groups. With p-value < 0.05, the labelled active and inactive molecules differ significantly in their Lipinski descriptor values, therefore validating the threshold used value.
-* Trained an XGBRegressor model to map SMILE Fingerprint of a molecule to its IC50 value to inhibit GSK-3β. The model evaluation shows:  
+* Tuned an XGBRegressor model using grid search to map the SMILES fingerprint of a molecule to its IC50 value for inhibiting GSK-3β. The model evaluation results are as follows:
    - Validatiion RMSE: 0.856
    - Test RMSE: 0.876
 ### References
