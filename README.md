@@ -1,4 +1,4 @@
-# Quantitative Structure-Activity Relationship (QSAR) Modeling for Glycogen Synthase Kinase-3 Beta (GSK-3β)
+# Quantitative Structure-Activity Relationship (QSAR) Modeling for Alzheimer's Drug Discovery
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shanty-01/quantitative-structure-activity-relationship-modeling/blob/main/chEMBL_Alzheimer_Glycogen_synthase_kinase_3_beta.ipynb)
 
 
